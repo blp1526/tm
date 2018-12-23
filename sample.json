@@ -1,0 +1,8 @@
+{
+  "header": ["name", "description"],
+  "data": [
+    ["foo", "first"],
+    ["bar", "second"],
+    ["baz", "third"]
+  ]
+}
